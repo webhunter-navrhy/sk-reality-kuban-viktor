@@ -1,0 +1,14 @@
+# Predaj bytu Ruzomberok
+
+> Ponúkam na predaj slnečný, dispozične výborne riešený 4-izbový byt s výmerou 82,5 m2 vo veľmi vyhľadávanej a pokojnej lokalite v Ružomberku na ulici Riadok. Byt sa nachádza na ideálnom 3. poschodí v zateplenom panelovom dome s rekonštrukciou výťahu a vymenenými stúpačkami.
+
+## Fakta
+- Typ: byt
+- Druh nabídky: predaj
+- Dispozice: 4-izbový
+- Plocha: 82 m²
+- Lokalita: Riadok, Ružomberok
+- Cena: Dohodou
+
+## Kontakt
+- Kancelář: Kuban Viktor
